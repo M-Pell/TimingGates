@@ -1,6 +1,6 @@
 ## Members
-Henry Forsyth, Computer Engineering Student (2024)
-rhforsythjr@vt.edu
+Mike Pellerito, BC Student
+pmike@vt.edu
 
 ## Mentor
 MENTOR NAME HERE
